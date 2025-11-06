@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+math.sqrt=d=(b**2-4*a*c)
+print(math.sqrt(d))
+x=-b+d/2*a
+x=-b-d/2*a
+a*x**2+b*x+c
+print(x)
